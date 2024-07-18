@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi , I'm Ishika Aneja</h1>
 <h3 align="center">Aspiring Business Analyst passionate about uncovering insights through data. Diving deep into techniques and tools to drive data-driven decisions.</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d0307460-62bc-4374-93d0-3dbb810be5b5">
 
  
 
