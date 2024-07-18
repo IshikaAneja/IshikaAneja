@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Ishika Aneja</h1>
 <h3 align="center">Aspiring Business Analyst passionate about uncovering insights through data. Diving deep into techniques and tools to drive data-driven decisions.</h3>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 
 
 - 🔭 Currently working on- **Deepening data analysis expertise through hands-on projects and experimentation.**
